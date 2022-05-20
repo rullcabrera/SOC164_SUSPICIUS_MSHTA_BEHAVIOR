@@ -59,7 +59,7 @@ Ya que algunos de estos, pueden conseguirse efetos inesperados. Permitiendo al a
 
 7 - Ahora, nos dicen que primero identifiquemos el binario que este ocultando actividades sospechosas.
 * Dandonos 2 opciones:
-  * **Volver a la página de monitorización: Para ver el detalle de las alertas.**
+  * **Volver a la página de monitorización:** Para ver el detalle de las alertas.
   * **Dirigirnos a la sección de _Endpoint Security_:** Donde podremos acceder directamente al Equipo donde ocurrió el incidente.
 
 ![FOTO7](foto7.png)
