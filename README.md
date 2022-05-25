@@ -4,6 +4,6 @@
 ### Happy Incident!
 #### ((-(-.(-.-).-)-)) ((-(-.(-.-).-)-)) ((-(-.(-.-).-)-))
 
-| ID Evento | Máquina | Nivel | OS | Categoria |
+| ID Evento | Máquina | Gravedad | OS | Categoria |
 | :--- | :---: | :---: | :---: | :---: |
 | 114 | [SOC164 - Suspicius Mshta Behavior](SOC164_SUSPICIUS_MSHTA_BEHAVIOR/index.md) | `Alta` | `Windows` | `#LOLBin` |
