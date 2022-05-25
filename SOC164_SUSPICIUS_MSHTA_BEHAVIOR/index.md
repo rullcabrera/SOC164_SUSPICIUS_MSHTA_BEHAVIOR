@@ -223,7 +223,3 @@ seguir manteniendo el uso de _aislamientos de procesos_.
 ***Flags:***
 
 Aquí no se trata de encontrar flags, amigo ;). Esto son insidentes.
-
-***Lecciones Aprendidas***
-
-
