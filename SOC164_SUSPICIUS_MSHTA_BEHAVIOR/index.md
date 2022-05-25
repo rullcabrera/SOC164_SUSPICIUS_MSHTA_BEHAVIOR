@@ -11,7 +11,7 @@
 ***Instrucciones:*** 
 
 Se trata de una alerta de incidente, del tipo LOLBin (Técnica de aprovecharse de un binario propio del sistema, para desencadenar un ataque ílicito). Primero antes de tomar el control sobre ella.
-Vemos que información se nos proporciona. Vemos en "Monitorización" y en la pestaña **_MAIN CHANNEL_**.
+Vemos que información se nos proporciona. Si vamos a "Monitorización" y en la pestaña **_MAIN CHANNEL_**.
 Desplegamos la información.
 ![FOTO1](foto1.png)
 
